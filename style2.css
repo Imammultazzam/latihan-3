@@ -1,0 +1,74 @@
+.parent{
+    margin: 0 auto;
+    max-width: 600px;
+    margin-top: 230px;
+    border: 2px solid #f3f3f3;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0 5px 0 0 #337deb;
+}
+.teks-0{
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    border: 2px solid #cfebdc;
+    border-radius: 5px;
+    background-color: #ecfef3;
+    color: green;
+    font-weight: bold;
+    font-size: 10px;
+}
+.tengah{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.teks-1{
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.teks-2{
+    padding-bottom: 10px;
+}
+.child-1{
+    display: flex;
+    justify-content: space-between;
+}
+.child-1 i{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.twitch{
+    width: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.child-2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.teks-3{
+    display: flex;
+    flex-direction: column;
+    border: 1px dashed #cecece;
+    border-radius: 5px;
+    padding: 5px;
+}
+.teks-4{
+    display: flex;
+    flex-direction: column;
+    border: 1px dashed #cecece;
+    border-radius: 5px;
+    padding: 5px;
+}
+.teks-5{
+    display: flex;
+    flex-direction: column;
+    border: 1px dashed #cecece;
+    border-radius: 5px;
+    padding: 5px;
+}
